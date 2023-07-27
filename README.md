@@ -17,7 +17,7 @@ This is a Number Guessing Game built using Java as part of my Java Development i
 
 To run the game locally on your machine, follow these steps:
 
-1. Clone the repository from the GitHub link: [https://lnkd.in/e4krXduS](https://lnkd.in/e4krXduS)
+1. Clone the repository from the GitHub link: https://github.com/Amitsingh2000/number-guessing-game
 
 2. Ensure you have Java Development Kit (JDK) installed on your system.
 
